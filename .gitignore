@@ -1,2 +1,5 @@
 bus_display_env/
-
+.idea/
+.envrc
+stop_configuration.json
+*.pyc
